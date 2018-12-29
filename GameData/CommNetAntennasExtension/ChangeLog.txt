@@ -1,8 +1,9 @@
 ChangeLog:
 
 Version 2.0.0
-	The plugin is excluded to the separate CommNet Antennas Info. 
-	Only parts are leaved there
+	The plugin is excluded to the separate CommNet Antennas Info, 
+	Only parts are leaved there.
+	500Gm antennas cannot be a first part now, as any other antennas
 	update MM 3.1.2
 
 Version 1.1.1.1
