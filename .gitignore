@@ -32,3 +32,5 @@ packages/
 
 
 /CKAN/
+/release_token.json
+__pycache__/
