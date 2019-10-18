@@ -1,5 +1,11 @@
 ChangeLog:
 
+## Version 2.1.0
+ * KSP 1.8
+ * MM 4.1.0
+ * packetSizes are integers, 
+ * packetResourceCost is more stockalike
+
 ## Version 2.0.1
  * KSP 1.7, remove KSP max version limit
  * update localization
