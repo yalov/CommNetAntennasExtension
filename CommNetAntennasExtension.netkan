@@ -10,6 +10,10 @@
     "resources" : {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/177292-*"
     },
+    "tags": [
+        "parts",
+        "comms"
+    ],
     "conflicts": [
         { "name": "RemoteTech" }
     ],
@@ -19,9 +23,13 @@
     ],
     "recommends": [
         { "name": "CommunityPartsTitles" },
-        { "name": "CommNetAntennasInfo" }
+        { "name": "CommNetAntennasInfo" },
+        { "name": "CommNetAntennasConsumptor" }
     ],
     "suggests": [
         { "name": "SpeedUnitAnnex" }
+    ],
+    "supports": [
+        { "name": "NearFutureExploration" }
     ]
 }
