@@ -1,5 +1,8 @@
 ## ChangeLog:
 
+### Version 2.1.3
+ * French translation (@vinix38)
+
 ### Version 2.1.2
  * updated version file
 
