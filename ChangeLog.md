@@ -1,5 +1,8 @@
 ## ChangeLog:
 
+### Version 2.1.4
+ * Added volume for the 3 smaller antennas
+
 ### Version 2.1.3
  * French translation (@vinix38)
 
