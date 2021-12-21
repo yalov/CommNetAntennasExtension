@@ -1,5 +1,15 @@
 ## ChangeLog:
 
+### Version 2.1.5
+ * MM 4.2.1
+ * lower volumes
+
+### Version 2.1.4
+ * Added volume for the 3 smaller antennas
+
+### Version 2.1.3
+ * French translation (@vinix38)
+
 ### Version 2.1.2
  * updated version file
 
