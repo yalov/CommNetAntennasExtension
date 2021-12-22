@@ -1,5 +1,8 @@
 ## ChangeLog:
 
+### Version 2.1.6
+ * updated French translation (github.com/vinix38)
+
 ### Version 2.1.5
  * MM 4.2.1
  * lower volumes
