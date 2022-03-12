@@ -1,6 +1,7 @@
 {
   "NAME": "CommNetAntennasExtension",
   "URL": "https://raw.githubusercontent.com/yalov/CommNetAntennasExtension/master/CommNetAntennasExtension.version",
+  "CHANGE_LOG_URL": "https://raw.githubusercontent.com/yalov/CommNetAntennasExtension/master/ChangeLog.md",
   "DOWNLOAD": "https://github.com/yalov/CommNetAntennasExtension/releases",
   "GITHUB": {
     "USERNAME": "yalov",
