@@ -1,5 +1,8 @@
 ## ChangeLog:
 
+### Version 2.1.7
+ * added Chinese translation (github.com/Aebestach)
+ 
 ### Version 2.1.6
  * updated French translation (github.com/vinix38)
 
