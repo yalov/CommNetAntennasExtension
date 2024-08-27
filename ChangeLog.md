@@ -1,5 +1,8 @@
 ## ChangeLog:
 
+### Version 2.1.8
+ * VABOrganizer patches (github.com/Adventurer13)
+
 ### Version 2.1.7
  * added Chinese translation (github.com/Aebestach)
  
