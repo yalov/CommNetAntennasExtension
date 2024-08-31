@@ -1,5 +1,10 @@
 ## ChangeLog:
 
+### Version 2.1.9
+ * added bulkheadProfiles
+ * updated Chinese translation (github.com/zhangyuesai)
+ * updated MM 4.2.3
+
 ### Version 2.1.8
  * VABOrganizer patches (github.com/Adventurer13)
 
